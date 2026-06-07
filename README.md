@@ -1,1 +1,0 @@
-# smart-temperature-monitoring-system
